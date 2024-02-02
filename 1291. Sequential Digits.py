@@ -1,6 +1,6 @@
 # 2 POTD 
-# Problem: 
-# Language: 1291. Sequential Digits
+# Problem:  1291. Sequential Digits
+# Language: Python3
 # link: https://leetcode.com/problems/sequential-digits/submissions/1163517067?envType=daily-question&envId=2024-02-02
 
 class Solution:
